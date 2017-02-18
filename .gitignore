@@ -1,0 +1,6 @@
+*.log
+*.txt
+!README.txt
+.htaccess
+-fonts/
+
